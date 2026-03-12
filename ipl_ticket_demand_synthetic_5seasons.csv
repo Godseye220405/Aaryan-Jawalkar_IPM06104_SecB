@@ -1,0 +1,371 @@
+Match_ID,Season,Team1,Team2,Stadium,City,Stadium_Capacity,Team_Popularity_Index,Match_Stage,Rivalry_Match,Day_of_Week,City_Income_Index,Avg_Ticket_Price,Tickets_Sold
+1,2020,CSK,MI,Narendra Modi Stadium,Ahmedabad,132000,9.65,League,1,Tuesday,7.2,1771,111371
+2,2020,CSK,GT,M. Chinnaswamy Stadium,Bangalore,40000,9.1,League,0,Monday,8.8,1322,40000
+3,2020,CSK,KKR,MA Chidambaram Stadium,Chennai,50000,9.25,Playoffs,1,Friday,7.8,1308,50000
+4,2020,GT,KKR,Sawai Mansingh Stadium,Jaipur,30000,8.65,League,0,Thursday,7.1,3613,30000
+5,2020,RR,MI,Eden Gardens,Kolkata,65000,8.8,League,0,Wednesday,7.5,2338,65000
+6,2020,RCB,KKR,Arun Jaitley Stadium,Delhi,41000,9.15,League,1,Monday,7.9,2756,41000
+7,2020,CSK,SRH,Arun Jaitley Stadium,Delhi,41000,8.8,League,0,Sunday,7.9,1377,41000
+8,2020,PBKS,GT,M. Chinnaswamy Stadium,Bangalore,40000,8,League,0,Monday,8.8,3461,40000
+9,2020,RR,SRH,MA Chidambaram Stadium,Chennai,50000,7.95,League,0,Monday,7.8,3908,50000
+10,2020,KKR,RR,M. Chinnaswamy Stadium,Bangalore,40000,8.4,League,0,Sunday,8.8,1613,40000
+11,2020,DC,RR,Rajiv Gandhi Stadium,Hyderabad,39000,7.9,League,0,Tuesday,7.4,2716,39000
+12,2020,SRH,KKR,Narendra Modi Stadium,Ahmedabad,132000,8.35,League,0,Friday,7.2,3800,93076
+13,2020,RCB,GT,MA Chidambaram Stadium,Chennai,50000,9,League,0,Thursday,7.8,2754,50000
+14,2020,RR,GT,MA Chidambaram Stadium,Chennai,50000,8.25,League,0,Sunday,7.8,4347,50000
+15,2020,MI,KKR,Wankhede Stadium,Mumbai,33000,9.2,League,0,Thursday,9,2296,33000
+16,2020,CSK,KKR,Arun Jaitley Stadium,Delhi,41000,9.25,League,1,Saturday,7.9,3244,41000
+17,2020,DC,PBKS,Eden Gardens,Kolkata,65000,7.65,League,0,Tuesday,7.5,2210,60093
+18,2020,GT,LSG,Narendra Modi Stadium,Ahmedabad,132000,8.35,League,0,Friday,7.2,2835,99671
+19,2020,SRH,KKR,Eden Gardens,Kolkata,65000,8.35,Playoffs,0,Thursday,7.5,1572,65000
+20,2020,MI,CSK,Eden Gardens,Kolkata,65000,9.65,League,1,Sunday,7.5,3987,65000
+21,2020,DC,CSK,Sawai Mansingh Stadium,Jaipur,30000,8.75,League,0,Friday,7.1,3117,30000
+22,2020,GT,RR,Wankhede Stadium,Mumbai,33000,8.25,League,0,Saturday,9,3399,33000
+23,2020,RR,SRH,M. Chinnaswamy Stadium,Bangalore,40000,7.95,League,0,Thursday,8.8,1847,40000
+24,2020,PBKS,MI,Narendra Modi Stadium,Ahmedabad,132000,8.55,Playoffs,0,Sunday,7.2,1931,104150
+25,2020,GT,CSK,Narendra Modi Stadium,Ahmedabad,132000,9.1,Playoffs,0,Friday,7.2,2014,107486
+26,2020,RCB,SRH,Eden Gardens,Kolkata,65000,8.7,Playoffs,0,Sunday,7.5,3372,65000
+27,2020,MI,SRH,Rajiv Gandhi Stadium,Hyderabad,39000,8.75,League,0,Monday,7.4,2686,39000
+28,2020,RR,KKR,Wankhede Stadium,Mumbai,33000,8.4,League,0,Friday,9,1522,33000
+29,2020,CSK,PBKS,M. Chinnaswamy Stadium,Bangalore,40000,8.6,Playoffs,0,Sunday,8.8,1715,40000
+30,2020,RCB,PBKS,Eden Gardens,Kolkata,65000,8.5,League,0,Friday,7.5,3684,62775
+31,2020,DC,KKR,MA Chidambaram Stadium,Chennai,50000,8.3,League,0,Thursday,7.8,3951,50000
+32,2020,SRH,PBKS,Rajiv Gandhi Stadium,Hyderabad,39000,7.7,League,0,Tuesday,7.4,2120,39000
+33,2020,CSK,SRH,Wankhede Stadium,Mumbai,33000,8.8,Playoffs,0,Tuesday,9,3610,33000
+34,2020,KKR,MI,M. Chinnaswamy Stadium,Bangalore,40000,9.2,League,0,Tuesday,8.8,1476,40000
+35,2020,MI,SRH,M. Chinnaswamy Stadium,Bangalore,40000,8.75,Playoffs,0,Tuesday,8.8,2340,40000
+36,2020,PBKS,KKR,Eden Gardens,Kolkata,65000,8.15,Final,0,Friday,7.5,3136,65000
+37,2020,KKR,PBKS,Sawai Mansingh Stadium,Jaipur,30000,8.15,League,0,Monday,7.1,1597,30000
+38,2020,DC,SRH,Sawai Mansingh Stadium,Jaipur,30000,7.85,League,0,Thursday,7.1,4186,30000
+39,2020,MI,CSK,Wankhede Stadium,Mumbai,33000,9.65,League,1,Saturday,9,2589,33000
+40,2020,CSK,KKR,MA Chidambaram Stadium,Chennai,50000,9.25,League,1,Friday,7.8,3037,50000
+41,2020,RCB,DC,Eden Gardens,Kolkata,65000,8.65,League,0,Thursday,7.5,2223,65000
+42,2020,CSK,PBKS,M. Chinnaswamy Stadium,Bangalore,40000,8.6,League,0,Saturday,8.8,3414,40000
+43,2020,MI,CSK,MA Chidambaram Stadium,Chennai,50000,9.65,League,1,Thursday,7.8,3189,50000
+44,2020,PBKS,KKR,Sawai Mansingh Stadium,Jaipur,30000,8.15,League,0,Tuesday,7.1,2752,30000
+45,2020,MI,DC,Narendra Modi Stadium,Ahmedabad,132000,8.7,League,0,Wednesday,7.2,2932,88743
+46,2020,GT,PBKS,Eden Gardens,Kolkata,65000,8,League,0,Wednesday,7.5,2091,62274
+47,2020,MI,GT,Wankhede Stadium,Mumbai,33000,9.05,League,0,Monday,9,1405,33000
+48,2020,LSG,PBKS,Eden Gardens,Kolkata,65000,7.85,League,0,Friday,7.5,1528,65000
+49,2020,RCB,CSK,M. Chinnaswamy Stadium,Bangalore,40000,9.6,League,1,Thursday,8.8,1691,40000
+50,2020,LSG,KKR,Wankhede Stadium,Mumbai,33000,8.5,League,0,Thursday,9,3892,33000
+51,2020,LSG,GT,Arun Jaitley Stadium,Delhi,41000,8.35,League,0,Tuesday,7.9,3943,41000
+52,2020,SRH,KKR,Narendra Modi Stadium,Ahmedabad,132000,8.35,League,0,Tuesday,7.2,3951,93381
+53,2020,RR,PBKS,Arun Jaitley Stadium,Delhi,41000,7.75,League,0,Monday,7.9,3077,41000
+54,2020,LSG,CSK,M. Chinnaswamy Stadium,Bangalore,40000,8.95,Playoffs,0,Tuesday,8.8,3272,40000
+55,2020,RR,RCB,Arun Jaitley Stadium,Delhi,41000,8.75,League,0,Tuesday,7.9,2713,41000
+56,2020,RR,RCB,Rajiv Gandhi Stadium,Hyderabad,39000,8.75,Playoffs,0,Saturday,7.4,2439,39000
+57,2020,LSG,GT,Wankhede Stadium,Mumbai,33000,8.35,Playoffs,0,Wednesday,9,3917,33000
+58,2020,CSK,RCB,Narendra Modi Stadium,Ahmedabad,132000,9.6,League,1,Monday,7.2,4240,102199
+59,2020,GT,RCB,Narendra Modi Stadium,Ahmedabad,132000,9,League,0,Friday,7.2,2062,102893
+60,2020,SRH,KKR,Narendra Modi Stadium,Ahmedabad,132000,8.35,Playoffs,0,Thursday,7.2,2228,114946
+61,2020,MI,CSK,Sawai Mansingh Stadium,Jaipur,30000,9.65,League,1,Monday,7.1,1214,30000
+62,2020,SRH,RCB,Narendra Modi Stadium,Ahmedabad,132000,8.7,League,0,Saturday,7.2,3009,101161
+63,2020,GT,DC,Wankhede Stadium,Mumbai,33000,8.15,League,0,Monday,9,4030,33000
+64,2020,RCB,GT,Wankhede Stadium,Mumbai,33000,9,League,0,Friday,9,3463,33000
+65,2020,RCB,DC,Eden Gardens,Kolkata,65000,8.65,League,0,Wednesday,7.5,2693,65000
+66,2020,MI,SRH,MA Chidambaram Stadium,Chennai,50000,8.75,League,0,Saturday,7.8,1621,50000
+67,2020,SRH,GT,Sawai Mansingh Stadium,Jaipur,30000,8.2,League,0,Tuesday,7.1,1865,30000
+68,2020,RCB,DC,Wankhede Stadium,Mumbai,33000,8.65,League,0,Saturday,9,2560,33000
+69,2020,DC,KKR,Narendra Modi Stadium,Ahmedabad,132000,8.3,League,0,Sunday,7.2,4072,101978
+70,2020,CSK,DC,Wankhede Stadium,Mumbai,33000,8.75,League,0,Tuesday,9,2017,33000
+71,2020,PBKS,SRH,Narendra Modi Stadium,Ahmedabad,132000,7.7,League,0,Tuesday,7.2,1296,100341
+72,2020,KKR,DC,Arun Jaitley Stadium,Delhi,41000,8.3,League,0,Sunday,7.9,1484,41000
+73,2020,RR,SRH,Sawai Mansingh Stadium,Jaipur,30000,7.95,Playoffs,0,Wednesday,7.1,1313,30000
+74,2020,CSK,RR,Eden Gardens,Kolkata,65000,8.85,League,0,Monday,7.5,1644,65000
+75,2021,LSG,DC,Arun Jaitley Stadium,Delhi,41000,8,League,0,Thursday,7.9,3683,41000
+76,2021,GT,CSK,Sawai Mansingh Stadium,Jaipur,30000,9.1,Final,0,Tuesday,7.1,2243,30000
+77,2021,MI,DC,Wankhede Stadium,Mumbai,33000,8.7,Playoffs,0,Sunday,9,3405,33000
+78,2021,KKR,SRH,Sawai Mansingh Stadium,Jaipur,30000,8.35,League,0,Saturday,7.1,2552,30000
+79,2021,LSG,SRH,M. Chinnaswamy Stadium,Bangalore,40000,8.05,League,0,Friday,8.8,2466,40000
+80,2021,DC,SRH,Sawai Mansingh Stadium,Jaipur,30000,7.85,League,0,Friday,7.1,1721,30000
+81,2021,KKR,DC,Sawai Mansingh Stadium,Jaipur,30000,8.3,League,0,Friday,7.1,3531,30000
+82,2021,RR,DC,Wankhede Stadium,Mumbai,33000,7.9,League,0,Wednesday,9,2060,33000
+83,2021,DC,SRH,Rajiv Gandhi Stadium,Hyderabad,39000,7.85,League,0,Thursday,7.4,3967,39000
+84,2021,KKR,GT,Rajiv Gandhi Stadium,Hyderabad,39000,8.65,League,0,Saturday,7.4,1547,39000
+85,2021,RR,GT,Arun Jaitley Stadium,Delhi,41000,8.25,League,0,Sunday,7.9,4276,41000
+86,2021,KKR,RR,MA Chidambaram Stadium,Chennai,50000,8.4,League,0,Tuesday,7.8,1300,50000
+87,2021,MI,KKR,Rajiv Gandhi Stadium,Hyderabad,39000,9.2,League,0,Thursday,7.4,2897,39000
+88,2021,LSG,KKR,Sawai Mansingh Stadium,Jaipur,30000,8.5,League,0,Thursday,7.1,2199,30000
+89,2021,RCB,MI,M. Chinnaswamy Stadium,Bangalore,40000,9.55,League,1,Tuesday,8.8,1920,40000
+90,2021,GT,PBKS,Wankhede Stadium,Mumbai,33000,8,Playoffs,0,Tuesday,9,1697,33000
+91,2021,PBKS,RCB,Rajiv Gandhi Stadium,Hyderabad,39000,8.5,Playoffs,0,Friday,7.4,3638,39000
+92,2021,SRH,PBKS,Sawai Mansingh Stadium,Jaipur,30000,7.7,Playoffs,0,Thursday,7.1,1851,30000
+93,2021,PBKS,LSG,Narendra Modi Stadium,Ahmedabad,132000,7.85,League,0,Sunday,7.2,3811,93999
+94,2021,RR,GT,Rajiv Gandhi Stadium,Hyderabad,39000,8.25,League,0,Wednesday,7.4,3001,39000
+95,2021,CSK,RR,MA Chidambaram Stadium,Chennai,50000,8.85,League,0,Wednesday,7.8,2509,50000
+96,2021,GT,CSK,Eden Gardens,Kolkata,65000,9.1,League,0,Tuesday,7.5,2768,62141
+97,2021,RCB,KKR,M. Chinnaswamy Stadium,Bangalore,40000,9.15,League,1,Thursday,8.8,2555,40000
+98,2021,GT,PBKS,Sawai Mansingh Stadium,Jaipur,30000,8,League,0,Tuesday,7.1,2920,30000
+99,2021,DC,MI,Sawai Mansingh Stadium,Jaipur,30000,8.7,League,0,Monday,7.1,2640,30000
+100,2021,RR,DC,Sawai Mansingh Stadium,Jaipur,30000,7.9,Playoffs,0,Saturday,7.1,4209,30000
+101,2021,GT,KKR,Rajiv Gandhi Stadium,Hyderabad,39000,8.65,League,0,Wednesday,7.4,2985,39000
+102,2021,PBKS,MI,Sawai Mansingh Stadium,Jaipur,30000,8.55,League,0,Saturday,7.1,3981,30000
+103,2021,DC,RCB,Rajiv Gandhi Stadium,Hyderabad,39000,8.65,League,0,Friday,7.4,3387,39000
+104,2021,MI,DC,Wankhede Stadium,Mumbai,33000,8.7,League,0,Saturday,9,2955,33000
+105,2021,RCB,PBKS,Eden Gardens,Kolkata,65000,8.5,League,0,Wednesday,7.5,2752,64597
+106,2021,SRH,KKR,Rajiv Gandhi Stadium,Hyderabad,39000,8.35,League,0,Wednesday,7.4,4317,39000
+107,2021,DC,RR,Sawai Mansingh Stadium,Jaipur,30000,7.9,League,0,Sunday,7.1,1535,30000
+108,2021,PBKS,MI,Wankhede Stadium,Mumbai,33000,8.55,League,0,Tuesday,9,3862,33000
+109,2021,CSK,MI,Wankhede Stadium,Mumbai,33000,9.65,League,1,Tuesday,9,1283,33000
+110,2021,LSG,RCB,MA Chidambaram Stadium,Chennai,50000,8.85,League,0,Thursday,7.8,3942,50000
+111,2021,CSK,KKR,Rajiv Gandhi Stadium,Hyderabad,39000,9.25,League,1,Sunday,7.4,2710,39000
+112,2021,RCB,CSK,Eden Gardens,Kolkata,65000,9.6,League,1,Monday,7.5,3570,65000
+113,2021,MI,RR,Sawai Mansingh Stadium,Jaipur,30000,8.8,League,0,Saturday,7.1,2012,30000
+114,2021,CSK,KKR,M. Chinnaswamy Stadium,Bangalore,40000,9.25,League,1,Sunday,8.8,4002,40000
+115,2021,LSG,CSK,Wankhede Stadium,Mumbai,33000,8.95,League,0,Friday,9,2954,33000
+116,2021,SRH,CSK,Arun Jaitley Stadium,Delhi,41000,8.8,League,0,Sunday,7.9,2920,41000
+117,2021,PBKS,CSK,Sawai Mansingh Stadium,Jaipur,30000,8.6,League,0,Saturday,7.1,3083,30000
+118,2021,RCB,DC,Eden Gardens,Kolkata,65000,8.65,Playoffs,0,Saturday,7.5,2306,65000
+119,2021,LSG,GT,Rajiv Gandhi Stadium,Hyderabad,39000,8.35,League,0,Thursday,7.4,4194,39000
+120,2021,LSG,RR,Arun Jaitley Stadium,Delhi,41000,8.1,League,0,Sunday,7.9,1554,41000
+121,2021,RR,PBKS,MA Chidambaram Stadium,Chennai,50000,7.75,League,0,Friday,7.8,3699,50000
+122,2021,DC,SRH,Wankhede Stadium,Mumbai,33000,7.85,League,0,Sunday,9,2531,33000
+123,2021,RCB,PBKS,MA Chidambaram Stadium,Chennai,50000,8.5,League,0,Sunday,7.8,2258,50000
+124,2021,SRH,RR,Narendra Modi Stadium,Ahmedabad,132000,7.95,Playoffs,0,Monday,7.2,3316,96423
+125,2021,KKR,CSK,MA Chidambaram Stadium,Chennai,50000,9.25,League,1,Thursday,7.8,3474,50000
+126,2021,KKR,PBKS,Rajiv Gandhi Stadium,Hyderabad,39000,8.15,League,0,Sunday,7.4,1270,39000
+127,2021,CSK,RR,MA Chidambaram Stadium,Chennai,50000,8.85,League,0,Saturday,7.8,2196,50000
+128,2021,RR,SRH,Rajiv Gandhi Stadium,Hyderabad,39000,7.95,Playoffs,0,Friday,7.4,2608,39000
+129,2021,DC,GT,Arun Jaitley Stadium,Delhi,41000,8.15,League,0,Saturday,7.9,3058,41000
+130,2021,RR,LSG,Narendra Modi Stadium,Ahmedabad,132000,8.1,League,0,Monday,7.2,4154,91546
+131,2021,KKR,SRH,M. Chinnaswamy Stadium,Bangalore,40000,8.35,Playoffs,0,Sunday,8.8,4026,40000
+132,2021,RCB,KKR,MA Chidambaram Stadium,Chennai,50000,9.15,League,1,Wednesday,7.8,4167,50000
+133,2021,LSG,GT,Narendra Modi Stadium,Ahmedabad,132000,8.35,League,0,Sunday,7.2,1995,95846
+134,2021,RR,KKR,Arun Jaitley Stadium,Delhi,41000,8.4,League,0,Wednesday,7.9,1257,41000
+135,2021,GT,RCB,Narendra Modi Stadium,Ahmedabad,132000,9,League,0,Monday,7.2,3466,92532
+136,2021,RR,RCB,Rajiv Gandhi Stadium,Hyderabad,39000,8.75,League,0,Sunday,7.4,1250,39000
+137,2021,LSG,RR,Rajiv Gandhi Stadium,Hyderabad,39000,8.1,League,0,Thursday,7.4,2595,39000
+138,2021,RCB,MI,Narendra Modi Stadium,Ahmedabad,132000,9.55,League,1,Monday,7.2,1467,106123
+139,2021,DC,PBKS,M. Chinnaswamy Stadium,Bangalore,40000,7.65,Final,0,Saturday,8.8,4011,40000
+140,2021,MI,RCB,Eden Gardens,Kolkata,65000,9.55,Final,1,Wednesday,7.5,1548,65000
+141,2021,KKR,CSK,Sawai Mansingh Stadium,Jaipur,30000,9.25,League,1,Sunday,7.1,3340,30000
+142,2021,DC,PBKS,Rajiv Gandhi Stadium,Hyderabad,39000,7.65,League,0,Sunday,7.4,3610,39000
+143,2021,DC,RR,Wankhede Stadium,Mumbai,33000,7.9,League,0,Sunday,9,2051,33000
+144,2021,KKR,RR,M. Chinnaswamy Stadium,Bangalore,40000,8.4,League,0,Tuesday,8.8,1911,40000
+145,2021,GT,CSK,Eden Gardens,Kolkata,65000,9.1,League,0,Thursday,7.5,3045,65000
+146,2021,LSG,PBKS,Narendra Modi Stadium,Ahmedabad,132000,7.85,League,0,Tuesday,7.2,2380,101940
+147,2021,RR,PBKS,M. Chinnaswamy Stadium,Bangalore,40000,7.75,League,0,Wednesday,8.8,4426,40000
+148,2021,LSG,KKR,Sawai Mansingh Stadium,Jaipur,30000,8.5,League,0,Friday,7.1,2120,30000
+149,2022,RCB,RR,Eden Gardens,Kolkata,65000,8.75,League,0,Monday,7.5,1879,65000
+150,2022,RR,LSG,Rajiv Gandhi Stadium,Hyderabad,39000,8.1,League,0,Thursday,7.4,4020,39000
+151,2022,RR,DC,Narendra Modi Stadium,Ahmedabad,132000,7.9,Playoffs,0,Friday,7.2,3222,107320
+152,2022,PBKS,CSK,Wankhede Stadium,Mumbai,33000,8.6,League,0,Saturday,9,2520,33000
+153,2022,LSG,RR,Wankhede Stadium,Mumbai,33000,8.1,League,0,Tuesday,9,3961,33000
+154,2022,LSG,MI,Narendra Modi Stadium,Ahmedabad,132000,8.9,Final,0,Monday,7.2,4325,118545
+155,2022,RCB,PBKS,Rajiv Gandhi Stadium,Hyderabad,39000,8.5,League,0,Tuesday,7.4,3597,39000
+156,2022,DC,PBKS,M. Chinnaswamy Stadium,Bangalore,40000,7.65,League,0,Wednesday,8.8,2872,40000
+157,2022,SRH,LSG,M. Chinnaswamy Stadium,Bangalore,40000,8.05,League,0,Wednesday,8.8,2886,40000
+158,2022,PBKS,RR,Sawai Mansingh Stadium,Jaipur,30000,7.75,Playoffs,0,Monday,7.1,3062,30000
+159,2022,CSK,SRH,Narendra Modi Stadium,Ahmedabad,132000,8.8,League,0,Monday,7.2,4364,88791
+160,2022,DC,GT,Wankhede Stadium,Mumbai,33000,8.15,Playoffs,0,Thursday,9,2892,33000
+161,2022,MI,KKR,Arun Jaitley Stadium,Delhi,41000,9.2,League,0,Saturday,7.9,3010,41000
+162,2022,MI,KKR,Narendra Modi Stadium,Ahmedabad,132000,9.2,Playoffs,0,Tuesday,7.2,2379,116026
+163,2022,PBKS,LSG,M. Chinnaswamy Stadium,Bangalore,40000,7.85,League,0,Saturday,8.8,3693,40000
+164,2022,KKR,RCB,Narendra Modi Stadium,Ahmedabad,132000,9.15,Playoffs,1,Monday,7.2,3462,108640
+165,2022,DC,CSK,MA Chidambaram Stadium,Chennai,50000,8.75,League,0,Thursday,7.8,1681,50000
+166,2022,RCB,PBKS,Narendra Modi Stadium,Ahmedabad,132000,8.5,Playoffs,0,Saturday,7.2,2319,115545
+167,2022,DC,PBKS,Rajiv Gandhi Stadium,Hyderabad,39000,7.65,League,0,Thursday,7.4,3457,39000
+168,2022,RCB,DC,MA Chidambaram Stadium,Chennai,50000,8.65,Playoffs,0,Saturday,7.8,1759,50000
+169,2022,CSK,RR,Sawai Mansingh Stadium,Jaipur,30000,8.85,League,0,Sunday,7.1,3279,30000
+170,2022,RR,MI,Narendra Modi Stadium,Ahmedabad,132000,8.8,League,0,Sunday,7.2,3604,96819
+171,2022,LSG,PBKS,Eden Gardens,Kolkata,65000,7.85,League,0,Friday,7.5,3183,59634
+172,2022,SRH,LSG,Sawai Mansingh Stadium,Jaipur,30000,8.05,League,0,Wednesday,7.1,1972,30000
+173,2022,KKR,DC,MA Chidambaram Stadium,Chennai,50000,8.3,League,0,Monday,7.8,2503,50000
+174,2022,PBKS,DC,Sawai Mansingh Stadium,Jaipur,30000,7.65,League,0,Thursday,7.1,1351,30000
+175,2022,RCB,GT,Arun Jaitley Stadium,Delhi,41000,9,League,0,Sunday,7.9,3003,41000
+176,2022,CSK,GT,Rajiv Gandhi Stadium,Hyderabad,39000,9.1,League,0,Saturday,7.4,1790,39000
+177,2022,DC,RCB,M. Chinnaswamy Stadium,Bangalore,40000,8.65,League,0,Sunday,8.8,2285,40000
+178,2022,SRH,DC,M. Chinnaswamy Stadium,Bangalore,40000,7.85,League,0,Sunday,8.8,3962,40000
+179,2022,GT,DC,Arun Jaitley Stadium,Delhi,41000,8.15,League,0,Sunday,7.9,3416,41000
+180,2022,MI,CSK,MA Chidambaram Stadium,Chennai,50000,9.65,League,1,Tuesday,7.8,4258,50000
+181,2022,CSK,DC,M. Chinnaswamy Stadium,Bangalore,40000,8.75,League,0,Thursday,8.8,1881,40000
+182,2022,RR,MI,Wankhede Stadium,Mumbai,33000,8.8,League,0,Sunday,9,1429,33000
+183,2022,RR,SRH,Arun Jaitley Stadium,Delhi,41000,7.95,League,0,Tuesday,7.9,2200,41000
+184,2022,GT,DC,Eden Gardens,Kolkata,65000,8.15,League,0,Tuesday,7.5,1523,65000
+185,2022,LSG,DC,MA Chidambaram Stadium,Chennai,50000,8,League,0,Friday,7.8,1786,50000
+186,2022,KKR,PBKS,Narendra Modi Stadium,Ahmedabad,132000,8.15,League,0,Wednesday,7.2,3931,100065
+187,2022,MI,PBKS,Narendra Modi Stadium,Ahmedabad,132000,8.55,Playoffs,0,Tuesday,7.2,1502,113320
+188,2022,PBKS,SRH,Narendra Modi Stadium,Ahmedabad,132000,7.7,League,0,Saturday,7.2,2224,100083
+189,2022,PBKS,RR,MA Chidambaram Stadium,Chennai,50000,7.75,League,0,Sunday,7.8,3179,50000
+190,2022,CSK,KKR,Sawai Mansingh Stadium,Jaipur,30000,9.25,Final,1,Wednesday,7.1,3554,30000
+191,2022,RR,LSG,Wankhede Stadium,Mumbai,33000,8.1,League,0,Wednesday,9,1233,33000
+192,2022,LSG,MI,Rajiv Gandhi Stadium,Hyderabad,39000,8.9,League,0,Sunday,7.4,4472,39000
+193,2022,KKR,SRH,MA Chidambaram Stadium,Chennai,50000,8.35,League,0,Friday,7.8,2226,50000
+194,2022,RCB,CSK,Wankhede Stadium,Mumbai,33000,9.6,League,1,Sunday,9,3005,33000
+195,2022,MI,SRH,Eden Gardens,Kolkata,65000,8.75,League,0,Wednesday,7.5,2538,65000
+196,2022,DC,RCB,MA Chidambaram Stadium,Chennai,50000,8.65,League,0,Sunday,7.8,3409,50000
+197,2022,SRH,GT,Narendra Modi Stadium,Ahmedabad,132000,8.2,League,0,Wednesday,7.2,3173,90807
+198,2022,RR,SRH,M. Chinnaswamy Stadium,Bangalore,40000,7.95,League,0,Monday,8.8,1776,40000
+199,2022,KKR,DC,Arun Jaitley Stadium,Delhi,41000,8.3,League,0,Sunday,7.9,2816,41000
+200,2022,MI,RR,M. Chinnaswamy Stadium,Bangalore,40000,8.8,League,0,Wednesday,8.8,3955,40000
+201,2022,RR,DC,Arun Jaitley Stadium,Delhi,41000,7.9,League,0,Saturday,7.9,2157,41000
+202,2022,PBKS,MI,Arun Jaitley Stadium,Delhi,41000,8.55,League,0,Saturday,7.9,1458,41000
+203,2022,PBKS,RR,Sawai Mansingh Stadium,Jaipur,30000,7.75,League,0,Tuesday,7.1,1385,30000
+204,2022,MI,RR,Rajiv Gandhi Stadium,Hyderabad,39000,8.8,League,0,Monday,7.4,2161,39000
+205,2022,GT,RCB,Sawai Mansingh Stadium,Jaipur,30000,9,League,0,Wednesday,7.1,3946,30000
+206,2022,GT,DC,Eden Gardens,Kolkata,65000,8.15,League,0,Saturday,7.5,1605,65000
+207,2022,PBKS,DC,Narendra Modi Stadium,Ahmedabad,132000,7.65,League,0,Saturday,7.2,2717,103073
+208,2022,KKR,PBKS,Rajiv Gandhi Stadium,Hyderabad,39000,8.15,League,0,Sunday,7.4,2685,39000
+209,2022,CSK,SRH,Arun Jaitley Stadium,Delhi,41000,8.8,League,0,Thursday,7.9,2330,41000
+210,2022,KKR,CSK,Rajiv Gandhi Stadium,Hyderabad,39000,9.25,League,1,Saturday,7.4,2068,39000
+211,2022,LSG,MI,Wankhede Stadium,Mumbai,33000,8.9,League,0,Tuesday,9,1715,33000
+212,2022,LSG,KKR,M. Chinnaswamy Stadium,Bangalore,40000,8.5,Playoffs,0,Tuesday,8.8,3601,40000
+213,2022,KKR,LSG,Arun Jaitley Stadium,Delhi,41000,8.5,League,0,Sunday,7.9,3641,41000
+214,2022,MI,RR,Eden Gardens,Kolkata,65000,8.8,League,0,Friday,7.5,2226,65000
+215,2022,RCB,CSK,Wankhede Stadium,Mumbai,33000,9.6,League,1,Monday,9,2667,33000
+216,2022,KKR,SRH,Wankhede Stadium,Mumbai,33000,8.35,League,0,Wednesday,9,1414,33000
+217,2022,RCB,DC,M. Chinnaswamy Stadium,Bangalore,40000,8.65,League,0,Thursday,8.8,3036,40000
+218,2022,SRH,GT,M. Chinnaswamy Stadium,Bangalore,40000,8.2,League,0,Friday,8.8,2107,40000
+219,2022,LSG,MI,Narendra Modi Stadium,Ahmedabad,132000,8.9,League,0,Saturday,7.2,1327,102306
+220,2022,MI,PBKS,Sawai Mansingh Stadium,Jaipur,30000,8.55,League,0,Saturday,7.1,1642,30000
+221,2022,PBKS,LSG,M. Chinnaswamy Stadium,Bangalore,40000,7.85,League,0,Wednesday,8.8,3691,40000
+222,2022,RCB,CSK,Eden Gardens,Kolkata,65000,9.6,League,1,Friday,7.5,3793,65000
+223,2023,LSG,GT,Arun Jaitley Stadium,Delhi,41000,8.35,League,0,Friday,7.9,3373,41000
+224,2023,RR,PBKS,Sawai Mansingh Stadium,Jaipur,30000,7.75,League,0,Sunday,7.1,4074,30000
+225,2023,CSK,GT,MA Chidambaram Stadium,Chennai,50000,9.1,League,0,Thursday,7.8,2135,50000
+226,2023,DC,SRH,Rajiv Gandhi Stadium,Hyderabad,39000,7.85,League,0,Thursday,7.4,4188,39000
+227,2023,CSK,SRH,Sawai Mansingh Stadium,Jaipur,30000,8.8,League,0,Saturday,7.1,2244,30000
+228,2023,SRH,RCB,Rajiv Gandhi Stadium,Hyderabad,39000,8.7,League,0,Monday,7.4,1549,39000
+229,2023,CSK,DC,M. Chinnaswamy Stadium,Bangalore,40000,8.75,League,0,Sunday,8.8,1732,40000
+230,2023,GT,MI,Arun Jaitley Stadium,Delhi,41000,9.05,League,0,Thursday,7.9,2648,41000
+231,2023,DC,MI,Narendra Modi Stadium,Ahmedabad,132000,8.7,League,0,Wednesday,7.2,1624,95643
+232,2023,LSG,GT,MA Chidambaram Stadium,Chennai,50000,8.35,League,0,Saturday,7.8,3175,50000
+233,2023,KKR,CSK,Arun Jaitley Stadium,Delhi,41000,9.25,Playoffs,1,Wednesday,7.9,1670,41000
+234,2023,RR,KKR,Sawai Mansingh Stadium,Jaipur,30000,8.4,Playoffs,0,Sunday,7.1,3746,30000
+235,2023,LSG,GT,Wankhede Stadium,Mumbai,33000,8.35,League,0,Monday,9,1938,33000
+236,2023,RR,LSG,Arun Jaitley Stadium,Delhi,41000,8.1,League,0,Monday,7.9,1943,41000
+237,2023,RCB,DC,M. Chinnaswamy Stadium,Bangalore,40000,8.65,League,0,Saturday,8.8,3793,40000
+238,2023,MI,CSK,MA Chidambaram Stadium,Chennai,50000,9.65,League,1,Thursday,7.8,3058,50000
+239,2023,SRH,RCB,Arun Jaitley Stadium,Delhi,41000,8.7,League,0,Saturday,7.9,2528,41000
+240,2023,LSG,CSK,Wankhede Stadium,Mumbai,33000,8.95,League,0,Tuesday,9,4290,33000
+241,2023,LSG,MI,M. Chinnaswamy Stadium,Bangalore,40000,8.9,League,0,Thursday,8.8,3911,40000
+242,2023,DC,PBKS,Rajiv Gandhi Stadium,Hyderabad,39000,7.65,League,0,Wednesday,7.4,2082,39000
+243,2023,GT,CSK,Arun Jaitley Stadium,Delhi,41000,9.1,League,0,Monday,7.9,2360,41000
+244,2023,LSG,PBKS,Narendra Modi Stadium,Ahmedabad,132000,7.85,League,0,Tuesday,7.2,2818,101836
+245,2023,LSG,MI,Wankhede Stadium,Mumbai,33000,8.9,League,0,Wednesday,9,2065,33000
+246,2023,RCB,RR,Narendra Modi Stadium,Ahmedabad,132000,8.75,League,0,Monday,7.2,1231,98995
+247,2023,PBKS,DC,Eden Gardens,Kolkata,65000,7.65,League,0,Thursday,7.5,3381,60084
+248,2023,KKR,GT,Arun Jaitley Stadium,Delhi,41000,8.65,League,0,Thursday,7.9,4239,41000
+249,2023,MI,DC,Wankhede Stadium,Mumbai,33000,8.7,League,0,Monday,9,2482,33000
+250,2023,LSG,DC,Sawai Mansingh Stadium,Jaipur,30000,8,League,0,Wednesday,7.1,1671,30000
+251,2023,DC,MI,Arun Jaitley Stadium,Delhi,41000,8.7,League,0,Sunday,7.9,3731,41000
+252,2023,PBKS,SRH,M. Chinnaswamy Stadium,Bangalore,40000,7.7,League,0,Sunday,8.8,1633,40000
+253,2023,KKR,DC,Sawai Mansingh Stadium,Jaipur,30000,8.3,Playoffs,0,Monday,7.1,2821,30000
+254,2023,RR,SRH,MA Chidambaram Stadium,Chennai,50000,7.95,League,0,Sunday,7.8,1888,50000
+255,2023,CSK,GT,M. Chinnaswamy Stadium,Bangalore,40000,9.1,Playoffs,0,Friday,8.8,1994,40000
+256,2023,SRH,LSG,Eden Gardens,Kolkata,65000,8.05,League,0,Monday,7.5,1799,63627
+257,2023,RR,KKR,Eden Gardens,Kolkata,65000,8.4,League,0,Sunday,7.5,4309,65000
+258,2023,CSK,RCB,Rajiv Gandhi Stadium,Hyderabad,39000,9.6,League,1,Sunday,7.4,3509,39000
+259,2023,LSG,PBKS,Arun Jaitley Stadium,Delhi,41000,7.85,League,0,Tuesday,7.9,3001,41000
+260,2023,CSK,PBKS,Rajiv Gandhi Stadium,Hyderabad,39000,8.6,League,0,Sunday,7.4,2325,39000
+261,2023,LSG,MI,Arun Jaitley Stadium,Delhi,41000,8.9,Playoffs,0,Monday,7.9,2471,41000
+262,2023,PBKS,LSG,Wankhede Stadium,Mumbai,33000,7.85,League,0,Wednesday,9,2375,33000
+263,2023,CSK,LSG,Sawai Mansingh Stadium,Jaipur,30000,8.95,League,0,Friday,7.1,3470,30000
+264,2023,MI,PBKS,MA Chidambaram Stadium,Chennai,50000,8.55,League,0,Friday,7.8,3148,50000
+265,2023,GT,RCB,Wankhede Stadium,Mumbai,33000,9,League,0,Monday,9,2606,33000
+266,2023,CSK,GT,Eden Gardens,Kolkata,65000,9.1,League,0,Tuesday,7.5,4098,60847
+267,2023,PBKS,LSG,Eden Gardens,Kolkata,65000,7.85,League,0,Wednesday,7.5,2358,65000
+268,2023,DC,LSG,Arun Jaitley Stadium,Delhi,41000,8,League,0,Sunday,7.9,3784,41000
+269,2023,SRH,CSK,Arun Jaitley Stadium,Delhi,41000,8.8,League,0,Friday,7.9,3978,41000
+270,2023,DC,RR,Narendra Modi Stadium,Ahmedabad,132000,7.9,League,0,Wednesday,7.2,1533,99063
+271,2023,LSG,RCB,Arun Jaitley Stadium,Delhi,41000,8.85,League,0,Saturday,7.9,4060,41000
+272,2023,DC,RCB,M. Chinnaswamy Stadium,Bangalore,40000,8.65,League,0,Friday,8.8,2742,40000
+273,2023,SRH,RCB,M. Chinnaswamy Stadium,Bangalore,40000,8.7,League,0,Friday,8.8,2682,40000
+274,2023,MI,SRH,Narendra Modi Stadium,Ahmedabad,132000,8.75,League,0,Tuesday,7.2,2599,99219
+275,2023,PBKS,KKR,MA Chidambaram Stadium,Chennai,50000,8.15,League,0,Tuesday,7.8,1516,50000
+276,2023,RR,CSK,Wankhede Stadium,Mumbai,33000,8.85,League,0,Sunday,9,3731,33000
+277,2023,RCB,DC,Eden Gardens,Kolkata,65000,8.65,League,0,Tuesday,7.5,4037,64291
+278,2023,LSG,RCB,Rajiv Gandhi Stadium,Hyderabad,39000,8.85,League,0,Thursday,7.4,2692,39000
+279,2023,KKR,PBKS,Narendra Modi Stadium,Ahmedabad,132000,8.15,League,0,Tuesday,7.2,3387,96630
+280,2023,KKR,RR,Rajiv Gandhi Stadium,Hyderabad,39000,8.4,League,0,Wednesday,7.4,3978,39000
+281,2023,LSG,PBKS,Rajiv Gandhi Stadium,Hyderabad,39000,7.85,League,0,Sunday,7.4,2764,39000
+282,2023,GT,LSG,Sawai Mansingh Stadium,Jaipur,30000,8.35,League,0,Sunday,7.1,2017,30000
+283,2023,LSG,RCB,Narendra Modi Stadium,Ahmedabad,132000,8.85,League,0,Saturday,7.2,3168,113065
+284,2023,SRH,GT,M. Chinnaswamy Stadium,Bangalore,40000,8.2,Playoffs,0,Sunday,8.8,1710,40000
+285,2023,RR,CSK,Eden Gardens,Kolkata,65000,8.85,League,0,Thursday,7.5,3302,65000
+286,2023,RCB,DC,M. Chinnaswamy Stadium,Bangalore,40000,8.65,League,0,Sunday,8.8,3047,40000
+287,2023,SRH,MI,Sawai Mansingh Stadium,Jaipur,30000,8.75,League,0,Thursday,7.1,3256,30000
+288,2023,SRH,KKR,Sawai Mansingh Stadium,Jaipur,30000,8.35,League,0,Wednesday,7.1,2119,30000
+289,2023,MI,SRH,M. Chinnaswamy Stadium,Bangalore,40000,8.75,League,0,Sunday,8.8,1798,40000
+290,2023,RCB,MI,Narendra Modi Stadium,Ahmedabad,132000,9.55,League,1,Saturday,7.2,1768,107688
+291,2023,PBKS,LSG,Wankhede Stadium,Mumbai,33000,7.85,League,0,Monday,9,2248,33000
+292,2023,KKR,RCB,Sawai Mansingh Stadium,Jaipur,30000,9.15,League,1,Sunday,7.1,2380,30000
+293,2023,KKR,RR,M. Chinnaswamy Stadium,Bangalore,40000,8.4,League,0,Tuesday,8.8,2919,40000
+294,2023,LSG,PBKS,M. Chinnaswamy Stadium,Bangalore,40000,7.85,League,0,Sunday,8.8,3247,40000
+295,2023,LSG,GT,Wankhede Stadium,Mumbai,33000,8.35,Playoffs,0,Friday,9,2190,33000
+296,2023,RCB,RR,Sawai Mansingh Stadium,Jaipur,30000,8.75,League,0,Friday,7.1,2645,30000
+297,2024,KKR,DC,Eden Gardens,Kolkata,65000,8.3,League,0,Friday,7.5,2677,65000
+298,2024,CSK,GT,Wankhede Stadium,Mumbai,33000,9.1,League,0,Sunday,9,3125,33000
+299,2024,MI,DC,Arun Jaitley Stadium,Delhi,41000,8.7,League,0,Saturday,7.9,1266,41000
+300,2024,SRH,CSK,Arun Jaitley Stadium,Delhi,41000,8.8,League,0,Saturday,7.9,3891,41000
+301,2024,CSK,SRH,Eden Gardens,Kolkata,65000,8.8,League,0,Wednesday,7.5,3436,62301
+302,2024,SRH,RCB,Rajiv Gandhi Stadium,Hyderabad,39000,8.7,League,0,Saturday,7.4,1946,39000
+303,2024,RCB,CSK,Rajiv Gandhi Stadium,Hyderabad,39000,9.6,League,1,Wednesday,7.4,2025,39000
+304,2024,MI,KKR,Wankhede Stadium,Mumbai,33000,9.2,League,0,Wednesday,9,3311,33000
+305,2024,DC,GT,Rajiv Gandhi Stadium,Hyderabad,39000,8.15,League,0,Monday,7.4,4285,39000
+306,2024,KKR,RR,Arun Jaitley Stadium,Delhi,41000,8.4,League,0,Sunday,7.9,3885,41000
+307,2024,SRH,RR,M. Chinnaswamy Stadium,Bangalore,40000,7.95,League,0,Thursday,8.8,2838,40000
+308,2024,PBKS,DC,Arun Jaitley Stadium,Delhi,41000,7.65,League,0,Thursday,7.9,4034,41000
+309,2024,PBKS,SRH,Narendra Modi Stadium,Ahmedabad,132000,7.7,League,0,Saturday,7.2,2938,103103
+310,2024,CSK,DC,Eden Gardens,Kolkata,65000,8.75,Playoffs,0,Wednesday,7.5,2515,65000
+311,2024,CSK,LSG,Arun Jaitley Stadium,Delhi,41000,8.95,League,0,Wednesday,7.9,3026,41000
+312,2024,LSG,DC,Eden Gardens,Kolkata,65000,8,League,0,Wednesday,7.5,3031,65000
+313,2024,MI,SRH,Sawai Mansingh Stadium,Jaipur,30000,8.75,League,0,Saturday,7.1,4441,30000
+314,2024,MI,CSK,Sawai Mansingh Stadium,Jaipur,30000,9.65,League,1,Friday,7.1,4481,30000
+315,2024,RCB,MI,Eden Gardens,Kolkata,65000,9.55,League,1,Monday,7.5,1717,65000
+316,2024,CSK,KKR,Arun Jaitley Stadium,Delhi,41000,9.25,League,1,Thursday,7.9,3523,41000
+317,2024,MI,RCB,Rajiv Gandhi Stadium,Hyderabad,39000,9.55,League,1,Wednesday,7.4,3018,39000
+318,2024,CSK,RCB,Arun Jaitley Stadium,Delhi,41000,9.6,League,1,Wednesday,7.9,3860,41000
+319,2024,RR,KKR,M. Chinnaswamy Stadium,Bangalore,40000,8.4,League,0,Saturday,8.8,1962,40000
+320,2024,PBKS,GT,Sawai Mansingh Stadium,Jaipur,30000,8,Playoffs,0,Monday,7.1,2272,30000
+321,2024,RR,PBKS,MA Chidambaram Stadium,Chennai,50000,7.75,League,0,Saturday,7.8,3211,50000
+322,2024,KKR,CSK,Eden Gardens,Kolkata,65000,9.25,League,1,Thursday,7.5,1907,65000
+323,2024,PBKS,CSK,Arun Jaitley Stadium,Delhi,41000,8.6,League,0,Saturday,7.9,1465,41000
+324,2024,GT,LSG,Narendra Modi Stadium,Ahmedabad,132000,8.35,League,0,Sunday,7.2,1845,116892
+325,2024,RCB,SRH,MA Chidambaram Stadium,Chennai,50000,8.7,League,0,Tuesday,7.8,4444,50000
+326,2024,RCB,KKR,Rajiv Gandhi Stadium,Hyderabad,39000,9.15,League,1,Wednesday,7.4,3469,39000
+327,2024,LSG,SRH,Rajiv Gandhi Stadium,Hyderabad,39000,8.05,Playoffs,0,Tuesday,7.4,3706,39000
+328,2024,CSK,LSG,Narendra Modi Stadium,Ahmedabad,132000,8.95,League,0,Saturday,7.2,4144,106658
+329,2024,PBKS,GT,Sawai Mansingh Stadium,Jaipur,30000,8,League,0,Sunday,7.1,3554,30000
+330,2024,CSK,RCB,Arun Jaitley Stadium,Delhi,41000,9.6,League,1,Thursday,7.9,3108,41000
+331,2024,GT,SRH,Eden Gardens,Kolkata,65000,8.2,Playoffs,0,Saturday,7.5,3607,65000
+332,2024,RCB,LSG,Sawai Mansingh Stadium,Jaipur,30000,8.85,Playoffs,0,Sunday,7.1,1426,30000
+333,2024,CSK,GT,Eden Gardens,Kolkata,65000,9.1,League,0,Tuesday,7.5,1863,65000
+334,2024,SRH,KKR,Arun Jaitley Stadium,Delhi,41000,8.35,Playoffs,0,Wednesday,7.9,1523,41000
+335,2024,RR,KKR,Narendra Modi Stadium,Ahmedabad,132000,8.4,League,0,Saturday,7.2,2440,108775
+336,2024,LSG,GT,M. Chinnaswamy Stadium,Bangalore,40000,8.35,Playoffs,0,Saturday,8.8,1890,40000
+337,2024,LSG,RCB,Eden Gardens,Kolkata,65000,8.85,League,0,Sunday,7.5,3508,65000
+338,2024,MI,LSG,M. Chinnaswamy Stadium,Bangalore,40000,8.9,League,0,Saturday,8.8,4358,40000
+339,2024,LSG,RR,MA Chidambaram Stadium,Chennai,50000,8.1,Final,0,Thursday,7.8,3731,50000
+340,2024,MI,PBKS,Narendra Modi Stadium,Ahmedabad,132000,8.55,League,0,Thursday,7.2,2203,95424
+341,2024,DC,RR,Rajiv Gandhi Stadium,Hyderabad,39000,7.9,League,0,Saturday,7.4,1445,39000
+342,2024,RCB,PBKS,Sawai Mansingh Stadium,Jaipur,30000,8.5,League,0,Thursday,7.1,2035,30000
+343,2024,SRH,RCB,Arun Jaitley Stadium,Delhi,41000,8.7,League,0,Saturday,7.9,2614,41000
+344,2024,DC,RCB,Arun Jaitley Stadium,Delhi,41000,8.65,Playoffs,0,Friday,7.9,1634,41000
+345,2024,SRH,KKR,Rajiv Gandhi Stadium,Hyderabad,39000,8.35,League,0,Wednesday,7.4,3041,39000
+346,2024,KKR,RCB,M. Chinnaswamy Stadium,Bangalore,40000,9.15,League,1,Wednesday,8.8,2773,40000
+347,2024,LSG,DC,MA Chidambaram Stadium,Chennai,50000,8,League,0,Sunday,7.8,2541,50000
+348,2024,LSG,SRH,MA Chidambaram Stadium,Chennai,50000,8.05,League,0,Thursday,7.8,3308,50000
+349,2024,PBKS,LSG,Narendra Modi Stadium,Ahmedabad,132000,7.85,League,0,Monday,7.2,1568,93256
+350,2024,DC,GT,Rajiv Gandhi Stadium,Hyderabad,39000,8.15,League,0,Tuesday,7.4,3589,39000
+351,2024,SRH,MI,Wankhede Stadium,Mumbai,33000,8.75,League,0,Thursday,9,3647,33000
+352,2024,PBKS,RR,Wankhede Stadium,Mumbai,33000,7.75,League,0,Thursday,9,1748,33000
+353,2024,RR,SRH,Sawai Mansingh Stadium,Jaipur,30000,7.95,League,0,Monday,7.1,2840,30000
+354,2024,MI,GT,MA Chidambaram Stadium,Chennai,50000,9.05,League,0,Friday,7.8,2382,50000
+355,2024,CSK,DC,Rajiv Gandhi Stadium,Hyderabad,39000,8.75,Playoffs,0,Wednesday,7.4,3752,39000
+356,2024,LSG,CSK,Eden Gardens,Kolkata,65000,8.95,League,0,Thursday,7.5,2728,63249
+357,2024,SRH,GT,Arun Jaitley Stadium,Delhi,41000,8.2,League,0,Tuesday,7.9,3667,41000
+358,2024,GT,DC,Wankhede Stadium,Mumbai,33000,8.15,League,0,Monday,9,1761,33000
+359,2024,SRH,PBKS,Rajiv Gandhi Stadium,Hyderabad,39000,7.7,League,0,Friday,7.4,3311,39000
+360,2024,RCB,SRH,Arun Jaitley Stadium,Delhi,41000,8.7,League,0,Thursday,7.9,3725,41000
+361,2024,RR,SRH,Rajiv Gandhi Stadium,Hyderabad,39000,7.95,Final,0,Wednesday,7.4,3145,39000
+362,2024,MI,SRH,Arun Jaitley Stadium,Delhi,41000,8.75,League,0,Thursday,7.9,3590,41000
+363,2024,RR,MI,Rajiv Gandhi Stadium,Hyderabad,39000,8.8,League,0,Saturday,7.4,4406,39000
+364,2024,LSG,KKR,Wankhede Stadium,Mumbai,33000,8.5,League,0,Tuesday,9,3347,33000
+365,2024,LSG,DC,Eden Gardens,Kolkata,65000,8,League,0,Monday,7.5,3545,64675
+366,2024,CSK,KKR,Wankhede Stadium,Mumbai,33000,9.25,League,1,Wednesday,9,2915,33000
+367,2024,RCB,DC,MA Chidambaram Stadium,Chennai,50000,8.65,League,0,Friday,7.8,4374,50000
+368,2024,LSG,PBKS,Wankhede Stadium,Mumbai,33000,7.85,League,0,Friday,9,2049,33000
+369,2024,GT,SRH,Rajiv Gandhi Stadium,Hyderabad,39000,8.2,Playoffs,0,Thursday,7.4,2485,39000
+370,2024,RCB,PBKS,Arun Jaitley Stadium,Delhi,41000,8.5,Playoffs,0,Wednesday,7.9,3968,41000
